@@ -1,0 +1,187 @@
+President
+FINAL RESULT
+Candidate                   Votes  Status
+------------------------  -------  --------
+Rooj Rinchokechai              10  Elected
+Ta Chanseewong                  2  Rejected
+Tiberiu Toca                    1  Rejected
+Theodoros Constantinides        1  Rejected
+Yogadhveep Arora                0  Rejected
+
+The winner is: Rooj Rinchokechai
+############################################
+
+Advisor
+FINAL RESULT
+Candidate                   Votes  Status
+------------------------  -------  --------
+Theodoros Constantinides       10  Elected
+Yogadhveep Arora                2  Rejected
+Tiberiu Toca                    1  Rejected
+Nanda Girish                    1  Rejected
+Ta Chanseewong                  0  Rejected
+
+The winner is: Theodoros Constantinides
+############################################
+
+Secretary
+ROUND 1
+Candidate                   Votes  Status
+------------------------  -------  --------
+Supak Kunopasvorakul            6  Hopeful
+Chris El Akoury                 3  Hopeful
+Tiberiu Toca                    2  Hopeful
+Nanda Girish                    2  Hopeful
+Theodoros Constantinides        1  Rejected
+
+ROUND 2
+Candidate                   Votes  Status
+------------------------  -------  --------
+Supak Kunopasvorakul            7  Hopeful
+Tiberiu Toca                    2  Hopeful
+Chris El Akoury                 3  Rejected
+Nanda Girish                    2  Rejected
+Theodoros Constantinides        0  Rejected
+
+FINAL RESULT
+Candidate                   Votes  Status
+------------------------  -------  --------
+Supak Kunopasvorakul            8  Elected
+Tiberiu Toca                    5  Rejected
+Chris El Akoury                 0  Rejected
+Nanda Girish                    0  Rejected
+Theodoros Constantinides        0  Rejected
+Blank Votes                     1  Rejected
+
+The winner is: Supak Kunopasvorakul
+############################################
+
+Treasurer
+ROUND 1
+Candidate                   Votes  Status
+------------------------  -------  --------
+Theodoros Constantinides        4  Hopeful
+Chris El Akoury                 3  Hopeful
+Yogadhveep Arora                3  Hopeful
+Ta Chanseewong                  2  Hopeful
+Supak Kunopasvorakul            1  Rejected
+Arnav Peehal                    1  Rejected
+Nanda Girish                    0  Rejected
+Tiberiu Toca                    0  Rejected
+
+ROUND 2
+Candidate                   Votes  Status
+------------------------  -------  --------
+Chris El Akoury                 4  Hopeful
+Theodoros Constantinides        4  Hopeful
+Yogadhveep Arora                3  Hopeful
+Ta Chanseewong                  2  Rejected
+Supak Kunopasvorakul            0  Rejected
+Arnav Peehal                    0  Rejected
+Nanda Girish                    0  Rejected
+Tiberiu Toca                    0  Rejected
+Blank Votes                     1  Rejected
+
+ROUND 3
+Candidate                   Votes  Status
+------------------------  -------  --------
+Chris El Akoury                 5  Hopeful
+Yogadhveep Arora                4  Hopeful
+Theodoros Constantinides        4  Rejected
+Ta Chanseewong                  0  Rejected
+Supak Kunopasvorakul            0  Rejected
+Arnav Peehal                    0  Rejected
+Nanda Girish                    0  Rejected
+Tiberiu Toca                    0  Rejected
+Blank Votes                     1  Rejected
+
+FINAL RESULT
+Candidate                   Votes  Status
+------------------------  -------  --------
+Chris El Akoury                 7  Elected
+Yogadhveep Arora                5  Rejected
+Theodoros Constantinides        0  Rejected
+Ta Chanseewong                  0  Rejected
+Supak Kunopasvorakul            0  Rejected
+Arnav Peehal                    0  Rejected
+Nanda Girish                    0  Rejected
+Tiberiu Toca                    0  Rejected
+Blank Votes                     2  Rejected
+
+The winner is: Chris El Akoury
+############################################
+
+Outreach Officer
+ROUND 1
+Candidate                   Votes  Status
+------------------------  -------  --------
+Oliver Bonallack                5  Hopeful
+Arnav Peehal                    5  Hopeful
+Yogadhveep Arora                1  Hopeful
+Chris El Akoury                 1  Hopeful
+Tiberiu Toca                    1  Rejected
+Theodoros Constantinides        1  Rejected
+Ta Chanseewong                  0  Rejected
+Nanda Girish                    0  Rejected
+
+FINAL RESULT
+Candidate                   Votes  Status
+------------------------  -------  --------
+Oliver Bonallack                7  Elected
+Arnav Peehal                    5  Rejected
+Yogadhveep Arora                1  Rejected
+Chris El Akoury                 1  Rejected
+Tiberiu Toca                    0  Rejected
+Theodoros Constantinides        0  Rejected
+Ta Chanseewong                  0  Rejected
+Nanda Girish                    0  Rejected
+
+The winner is: Oliver Bonallack
+############################################
+
+Media Officer
+FINAL RESULT
+Candidate           Votes  Status
+----------------  -------  --------
+Luke Edwards           13  Elected
+Chris El Akoury         1  Rejected
+Arnav Peehal            0  Rejected
+Yogadhveep Arora        0  Rejected
+Nanda Girish            0  Rejected
+Ta Chanseewong          0  Rejected
+
+The winner is: Luke Edwards
+############################################
+
+Equality Officer
+ROUND 1
+Candidate                   Votes  Status
+------------------------  -------  --------
+Arnav Peehal                    5  Hopeful
+Supak Kunopasvorakul            3  Hopeful
+Theodoros Constantinides        3  Hopeful
+Luke Edwards                    3  Rejected
+
+ROUND 2
+Candidate                   Votes  Status
+------------------------  -------  --------
+Arnav Peehal                    5  Hopeful
+Supak Kunopasvorakul            4  Hopeful
+Theodoros Constantinides        4  Rejected
+Luke Edwards                    0  Rejected
+Blank Votes                     1  Rejected
+
+FINAL RESULT
+Candidate                   Votes  Status
+------------------------  -------  --------
+Supak Kunopasvorakul            7  Elected
+Arnav Peehal                    6  Rejected
+Theodoros Constantinides        0  Rejected
+Luke Edwards                    0  Rejected
+Blank Votes                     1  Rejected
+
+The winner is: Supak Kunopasvorakul
+
+For this position, if Supak chooses to go with his first choice (Secretary) and Arnav accepted to be Equality Officer, Arnav will be elected instead.
+############################################
+
